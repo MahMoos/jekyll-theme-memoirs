@@ -1,9 +1,12 @@
 ---
+title: Spoliers Inside - a film review needs hidden spoilers like this post
+date: 2020-01-11 00:00:00 Z
+categories:
+- Lifestyle
+tags:
+- Movies
 layout: post
-title:  "Spoliers Inside - a film review needs hidden spoilers like this post"
 author: john
-categories: [ Lifestyle ]
-tags: [ Movies ]
 image: assets/images/12.jpg
 ---
 

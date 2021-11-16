@@ -1,9 +1,12 @@
 ---
+title: French Wine has to compete with many new world wines
+date: 2020-01-01 00:00:00 Z
+categories:
+- Lifestyle
+tags:
+- France
 layout: post
-title:  "French Wine has to compete with many new world wines"
 author: john
-categories: [ Lifestyle ]
-tags: [France]
 image: assets/images/5.jpg
 ---
 

@@ -1,8 +1,10 @@
 ---
+title: 'Much more than a desert: A trip into the Sahara'
+date: 2020-02-01 00:00:00 Z
+categories:
+- Travel
 layout: post
-title:  "Much more than a desert: A trip into the Sahara"
 author: john
-categories: [ Travel ]
 image: assets/images/16.jpg
 ---
 
